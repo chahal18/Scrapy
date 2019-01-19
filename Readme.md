@@ -51,19 +51,19 @@ Would suggest you to use ``` Jupyter Notebook``` for this part.
 
 Screenshots of the visualisations: 
 
-```![Alt text](/screenshots/1.png?raw=true)```
+![Alt text](/screenshots/1.png?raw=true)
 
-```![Alt text](/screenshots/2.png?raw=true)```
+![Alt text](/screenshots/2.png?raw=true)
 
-```![Alt text](/screenshots/3.png?raw=true)```
+![Alt text](/screenshots/3.png?raw=true)
 
-```![Alt text](/screenshots/4.png?raw=true)```
+![Alt text](/screenshots/4.png?raw=true)
 
-```![Alt text](/screenshots/5.png?raw=true)```
+![Alt text](/screenshots/5.png?raw=true)
 
-```![Alt text](/screenshots/6.png?raw=true)```
+![Alt text](/screenshots/6.png?raw=true)
 
-```![Alt text](/screenshots/7.png?raw=true)```
+![Alt text](/screenshots/7.png?raw=true)
      
 
 
