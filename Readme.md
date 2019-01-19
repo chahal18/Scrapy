@@ -47,21 +47,27 @@ Run this file and it would generate ``` Fin.csv``` file after completing the dat
 
 ## Data Visualisation 
 
-Would suggest you to use ``` Jupyter Notebook``` for this part. 
+Would suggest you to use ``` Jupyter Notebook``` for this part. Copy the content of ``` visualisation.py``` and paste it in your Jupyter Notebook. 
 
 Screenshots of the visualisations: 
 
 ![Alt text](/screenshots/1.png?raw=true)
 
+
 ![Alt text](/screenshots/2.png?raw=true)
+
 
 ![Alt text](/screenshots/3.png?raw=true)
 
+
 ![Alt text](/screenshots/4.png?raw=true)
+
 
 ![Alt text](/screenshots/5.png?raw=true)
 
+
 ![Alt text](/screenshots/6.png?raw=true)
+
 
 ![Alt text](/screenshots/7.png?raw=true)
      
